@@ -1,0 +1,2 @@
+# Fastai-technical-Q-A
+I am an international fellow at Fast.ai and am going through a second pass over the entire course part_1_version_2.  A lot of questions are asked on the forums during and after the youtube streams. @Jeremy answers some in the class live and the rest get answered by @Jeremy, @Rachael, @yinterian and other fast.ai students.  In this repository I intend to cover all those questions such that it will act as a resource for fellow students.  PS: This is not any alternative to the forums. Any contributions and corrections are welcome.
